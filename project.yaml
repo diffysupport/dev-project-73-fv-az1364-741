@@ -1,5 +1,5 @@
 basic:
-    name: 'Mosciski LLC'
+    name: 'Yost, Rice and Rau'
     environments:
         production: 'https://www.mos.org/'
         staging: ''
